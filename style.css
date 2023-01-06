@@ -1,0 +1,12 @@
+body {
+    background: url(.//assets/bg-desktop-MP.png);
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    padding: 25px;
+    border: 1px solid purple;
+}
