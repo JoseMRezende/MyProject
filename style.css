@@ -5,8 +5,12 @@ body {
 
 h1 {
     color: white;
-    font-size: 30px;
+    font-size: 100px;
     text-align: left;
     padding: 25px;
-    border: 1px solid purple;
+}
+
+button {
+    width: 60px;
+    height: 20px;
 }
