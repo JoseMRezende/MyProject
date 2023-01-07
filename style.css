@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: white;
+    color: #fff;
     font-size: 100px;
     text-align: left;
     padding: 25px;
@@ -13,4 +13,6 @@ h1 {
 button {
     width: 60px;
     height: 20px;
+    position: relative;
+    z-index: -1;
 }
