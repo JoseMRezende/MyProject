@@ -1,18 +1,29 @@
 body {
-    background: url(.//assets/bg-desktop-MP.png);
+    background: url(./assets/bg-desktop-MP.png);
     font-family: 'Inter', sans-serif;
 }
 
-h1 {
+#base {
+    width: 100%;
+    max-width: 100%;
+}
+
+#line h1 {
     color: #fff;
     font-size: 100px;
     text-align: left;
     padding: 25px;
 }
 
-button {
-    width: 60px;
-    height: 20px;
+#enter {
     position: relative;
-    z-index: -1;
+    width: 70px;
+    margin: 50px 30px;
+}
+
+#enter button {
+    width: 730px;
+    height: 55px;
+    background: url(./assets/button-to-enter\ .png);
+    border: 1px solid #272727;
 }
