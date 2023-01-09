@@ -27,3 +27,7 @@ body {
     background: url(./assets/button-to-enter\ .png);
     border: 1px solid #272727;
 }
+
+#enter button :hover {
+    /* comming soon */ 
+}
